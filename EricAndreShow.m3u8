@@ -5,7 +5,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 
 
-#EXTINF:11.16,S01E01GeorgeClooney
+#EXTINF:-1,S01E01GeorgeClooney
 https://4.cdn4.pl/EricAndreShow/S01E01GeorgeClooney.mp4
 
 #EXTINF:-1,S01E02RickFox
