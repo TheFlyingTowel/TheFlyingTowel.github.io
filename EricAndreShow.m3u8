@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:20.5
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-PLAYLIST-TYPE:VOD
+
 
 #EXTINF:11.16,S01E01GeorgeClooney
 https://4.cdn4.pl/EricAndreShow/S01E01GeorgeClooney.mp4
@@ -155,4 +155,4 @@ https://4.cdn4.pl/EricAndreShow/S05E09IsYourWifeStillDepressed.mp4
 #EXTINF:-1,S05E10The50thEpisode%21
 https://4.cdn4.pl/EricAndreShow/S05E10The50thEpisode%21.mp4
 
-
+EXT-X-ENDLIST
