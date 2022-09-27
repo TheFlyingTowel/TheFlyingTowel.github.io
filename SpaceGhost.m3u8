@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-
 
 #EXTINF:-1,S01E01SpanishTranslation
 https://1.cdn1.pl/SpaceGhost/S01E01SpanishTranslation.mp4
