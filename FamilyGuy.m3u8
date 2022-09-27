@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
 
 #EXTINF:-1,100thEpisodeSpecial
 https://1.cdn1.pl/FG__/100thEpisodeSpecial.mp4
