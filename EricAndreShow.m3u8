@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:-1,S01E01GeorgeClooney
 https://4.cdn4.pl/EricAndreShow/S01E01GeorgeClooney.mp4
