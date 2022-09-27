@@ -3,7 +3,7 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1,S01E01TheGangGetsRacist
+#EXTINF:28.5,S01E01TheGangGetsRacist
 https://1.cdn1.pl/Sunny/S01E01TheGangGetsRacist.mp4
 
 #EXTINF:-1,S01E02CharlieWantsanAbortion
