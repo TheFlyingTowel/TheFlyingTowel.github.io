@@ -1,0 +1,5 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=876258,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=640x480
+http://theflyingtowel.github.io/HomeMovies.m3u8
