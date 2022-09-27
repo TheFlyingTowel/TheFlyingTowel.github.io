@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1,S06E14TheSilenceoftheClamps
 https://3.cdn3.pl/Futurama/S06E14TheSilenceoftheClamps.mp4
