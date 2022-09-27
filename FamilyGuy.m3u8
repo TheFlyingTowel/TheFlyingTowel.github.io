@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1,100thEpisodeSpecial
 https://1.cdn1.pl/FG__/100thEpisodeSpecial.mp4
